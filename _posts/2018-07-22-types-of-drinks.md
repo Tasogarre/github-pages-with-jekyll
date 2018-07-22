@@ -1,3 +1,8 @@
+---
+title: "THC - Types of Drinks"
+date: 2018-07-22
+---
+
 ## Types of Drinks
 
 ### _Alcoholic_
