@@ -1,15 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: TheHosts.Club
+author: Marcus Bearden
+email: marcus@thehosts.club
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  TheHosts.Club was started out of a personal need for good advice on entertaining
+  and hosting events.  We are passionate about bringing joy to our friends and family
+  and continued to struggle to find a good resource for this information.  The only
+  logical step left was to start our own.  Welcome to our home!
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: thehostsclub
+github_username:  tasogarre
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-merlot
+theme: minima
